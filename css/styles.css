@@ -85,12 +85,14 @@ line-height: 1.07;
   }
   
 .features-list {
-    list-style: none;
-  }
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
   
-  .features-item {
-    flex-basis: calc((100% - 72px) / 4);
-  }
+  
   
   .features-title {
     font-size: 20px; 
