@@ -42,12 +42,11 @@ color: #434455;
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus, {
+.contacts-link:focus {
     color: #404bbf;  
 }
 
 .main-content {
-    padding: 60px 0;
     color: #434455;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -55,8 +54,7 @@ color: #434455;
 .hero-secthion {
     background-color: #2e2f42;
     color: #ffffff;
-    text-align: center;
-    padding: 120px 0;   
+    text-align: center;   
 } 
 .hero-title {
 font-weight: 700;
@@ -70,7 +68,6 @@ color: #fff;
     background-color: #4d5ae5;
     color: #ffffff;
     font-weight: 500;
-    padding: 16px 32px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -80,7 +77,6 @@ color: #fff;
   background-color: #404bbf;}
   
 .features-section {
-   padding: 60px 0;
    background-color: #ffffff;
   }
   
@@ -88,8 +84,6 @@ color: #fff;
     display: flex;
     gap: 24px;
     list-style: none;
-    padding: 0;
-    margin: 0;
   }
   
   .features-item {
@@ -99,7 +93,6 @@ color: #fff;
   .features-title {
     font-size: 20px;
     font-weight: 500;
-    margin-bottom: 8px;
   }
   
   .features-text {
@@ -109,14 +102,12 @@ color: #fff;
   /* ====== TEAM ====== */
   .team-section {
     background-color: #f4f4fd;
-    padding: 60px 0;
     text-align: center;
   }
   
   .team-title {
     font-size: 36px;
     font-weight: 700;
-    margin-bottom: 40px;
   }
   
   .team-list {
@@ -124,17 +115,10 @@ color: #fff;
     gap: 24px;
     justify-content: center;
     list-style: none;
-    padding: 0;
-    margin: 0;
   }
   
   .team-item {
     background-color: #ffffff;
-    border-radius: 0 0 4px 4px;
-    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.08),
-                0 1px 1px rgba(0, 0, 0, 0.16),
-                0 1px 6px rgba(0, 0, 0, 0.08);
-    padding-bottom: 32px;
     width: 264px;
   }
   
@@ -147,7 +131,6 @@ color: #fff;
   .team-name {
     font-size: 20px;
     font-weight: 500;
-    margin: 16px 0 8px;
   }
   
   .team-position {
@@ -157,13 +140,10 @@ color: #fff;
   .page-footer {
     background-color: #2e2f42;
     color: #ffffff;
-    padding: 60px 0;
   }
   
   .footer-container {
     max-width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
   }
   
   .footer-logo {
@@ -175,7 +155,6 @@ color: #fff;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-bottom: 16px;
   }
   
   .logo-part {
