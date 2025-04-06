@@ -15,7 +15,7 @@ a {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.07;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;  
@@ -69,6 +69,9 @@ color: #fff;
     background-color: #4d5ae5;
     color: #ffffff;
     font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
     
 }
 .hero-button:hover,
@@ -90,6 +93,12 @@ color: #fff;
   .features-title {
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
+  .features-p {
+    letter-spacing: 0.02em; 
   }
   
   .features-text {
