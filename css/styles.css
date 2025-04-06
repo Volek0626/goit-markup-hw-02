@@ -93,20 +93,28 @@ line-height: 1.07;
   }
   
   .features-title {
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 20px; 
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-weight: 700;
 
   }
-  .features-p {
+  .features-text-1 {
+    letter-spacing: 0.02em;
+    color: #434455;
+  } 
+  .features-text-2 {
+    color: #434455;
+    letter-spacing: 0.02em;
+  }
+  .features-text-3 {
+    color: #434455;
     letter-spacing: 0.02em; 
   }
-  
-  .features-text {
+  .features-text-4{
     color: #434455;
+    letter-spacing: 0.02em; 
   }
   
   /* ====== TEAM ====== */
