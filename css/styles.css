@@ -93,25 +93,21 @@ line-height: 1.07;
     margin-bottom: 20px; 
 }
 
-.features-list {
-    list-style-type: none;
+ .features-item {
+  margin-bottom: 20px;
 }
 
-.features-item {
-    margin-bottom: 20px; 
+.features-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
-.features-item h3 {
-    font-weight: 500; 
-    font-size: 20px; 
-    line-height: 1.2; 
-    letter-spacing: 0.02em; 
-    color: #2e2f42; 
-}
-
-.features-item p {
-    font-size: 16px; 
-    line-height: 1.5; 
-    letter-spacing: 0.02em; 
-    color: #434455; 
+.features-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
