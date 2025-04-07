@@ -118,13 +118,11 @@ background-color: #404bbf;}
 
 .team-list {
   list-style-type: none;
-  margin: 0;
-}
+ }
 
 .team-item {
   background-color: #FFFFFF;
-  padding: 16px;
-}
+ }
 .section-portfolio {
   background-color: #ffffff;
 }
@@ -167,15 +165,15 @@ background-color: #404bbf;}
 
 
 .footer-logo {
-  display: inline-block;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.07;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
-  text-decoration: none;
-}
+  color: #4d5ae5; 
+  line-height: 1.17;
+  }
 
 .logo-part {
   color: #f4f4fd;
