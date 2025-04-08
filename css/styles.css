@@ -123,6 +123,20 @@ background-color: #404bbf;}
 .team-item {
   background-color: #FFFFFF;
  }
+ .team-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-role {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 .section-portfolio {
   background-color: #ffffff;
 }
@@ -168,7 +182,7 @@ background-color: #404bbf;}
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.07;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5; 
@@ -183,4 +197,7 @@ background-color: #404bbf;}
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--light-text-color, #f4f4fd);
+}
+:root {
+  --footer-text-color: #f4f4fd;
 }
